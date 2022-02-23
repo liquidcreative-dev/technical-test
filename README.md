@@ -16,6 +16,7 @@
 * The nav buttons in the header should link to their respective pages.
 * Taking too long to complete this test could allow for someone else to get an offer before you. This test shouldn't take more than a few hours to complete.
 * Do not add in your own design ideas. Stick to the design that you have been given.
+* Two font files have been included in the assets folder. To stand out more, it is reccommended that you use one of those files to create a custom CSS font face and use it during the test.
 
 ### Be sure to reach out as soon as you finish the test so we can review your work. Good luck, and we look forward to working with you.
 
