@@ -9,7 +9,7 @@
 #### To get started with the test, you need to download the ZIP file to your computer. All of the files and assets you need are included. Follow the design below, and contact Ryan Spears(rspears@liquid-creative.com) when you are finished. 
 
 ### Home Page
-![Home Page]('Web Home Page Liquid Test.jpg')
+![Home Page](https://github.com/liquidcreative-dev/technical-test/blob/f19343b0c4451d164eb516842b234c5e0514fbab/Web%20Home%20Page%20Liquid%20Test.jpg)
 
 ### About Page
-![About Page]('Web Home Page About Test.jpg')
+![About Page](https://github.com/liquidcreative-dev/technical-test/blob/f19343b0c4451d164eb516842b234c5e0514fbab/Web%20About%20Page%20Liquid%20Test.jpg)
