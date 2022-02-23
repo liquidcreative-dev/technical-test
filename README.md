@@ -6,4 +6,6 @@
 * How cleanly formatted your code is.
 * The completion of all tasks given to you.
 
-#### To get started with the test, you need to locally clone this repository to your computer. All of the files and assets you need are included. Follow the design below, and contact Ryan Spears(rspears@liquid-creative.com) when you are finished. 
+#### To get started with the test, you need to download the ZIP file to your computer. All of the files and assets you need are included. Follow the design below, and contact Ryan Spears(rspears@liquid-creative.com) when you are finished. 
+
+
